@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Working on a readable site still...
+See more about me at [my homepage](https://lahaluhem.github.io/LahaLuhem/)
