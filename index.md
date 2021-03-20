@@ -5,4 +5,13 @@ layout: default
 Welcome to my Repo
 ==================
 
-It's still some work in progress here...
+List of my hobbyist works:
++ [GUI Games](https://lahaluhem.github.io/GUI_Games/)
++ [Non-GUI Games](https://lahaluhem.github.io/Non-GUI_Games/)
++ [Funcionality Extensions](https://lahaluhem.github.io/MyRep1/)
++ [Random scripts etc.](https://lahaluhem.github.io/Other_Programs/)
+
+Organized works:
++ [GelijkSpel](https://lahaluhem.github.io/GelijkSpel-Code/)
+
+Happy digging!
