@@ -11,7 +11,7 @@ List of my hobbyist works:
 + [Funcionality Extensions](https://lahaluhem.github.io/MyRep1/)
 + [Random scripts etc.](https://lahaluhem.github.io/Other_Programs/)
 
-Organized works:
+Organized works (team projects and startups):
 + [GelijkSpel](https://lahaluhem.github.io/GelijkSpel-Code/)
 
 Happy digging!
