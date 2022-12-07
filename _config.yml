@@ -1,7 +1,9 @@
 markdown: kramdown
 google_analytics:
 theme: jekyll-theme-cayman
-show_downloads: true
+show_downloads: false
+github_username: LahaLuhm
+twitter_username: Mguy13
 
 title: Laha Luhem
 email: t3mp0rary13@gmail.com
