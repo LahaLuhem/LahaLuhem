@@ -1,6 +1,7 @@
 markdown: kramdown
 google_analytics:
 theme: jekyll-theme-cayman
+markdown: kramdown
 show_downloads: false
 github_username: LahaLuhm
 twitter_username: Mguy13
