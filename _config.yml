@@ -1,21 +1,8 @@
 exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md"]
 markdown: kramdown
-highlighter: rouge
-permalink: pretty
 google_analytics:
 theme: jekyll-theme-cayman
 show_downloads: true
 
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
 title: Laha Luhem
 description: introducing, a me
-baseurl: ''
-
-repos:
-- name: guides-template
-  description: 
-  url: https://github.com/AhalDentalClinic
