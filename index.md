@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to my Repo
+You have landed on my personal page!
 ==================
 
 List of my hobbyist works:
