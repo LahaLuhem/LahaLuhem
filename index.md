@@ -4,7 +4,8 @@ layout: default
 
 Table of contents
 ==================
-*TOC
+*TOC\
+
 {:toc}
 
 Mobile app development
