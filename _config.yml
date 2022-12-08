@@ -37,7 +37,7 @@ titles_from_headings:
 author:
   name   : "Laha Luhem"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "As a mutli-faceted developer I am constantly creating solutions to combine software and practical AI. At the moment, focussing on app development."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

@@ -27,6 +27,7 @@ Developing and maintaining MedApp pharmacy app using Flutter.
 A small demo portofolio presentation can be found [here](https://1drv.ms/p/s!AqlOwfoXgAPB9zf41AJ1j7mMDkkt).
 
 # AI/ML
++ Training and calibrating a point-cloud estimation model for a robot's camera, for location estimation and optimal route-creation to cover an area
 + Training open source instance of GPT-3, for quirky use cases. My GPT-Neo [instance](https://drive.google.com/drive/folders/1uWQ5mHiPoofg0f6EL5NACNlrYwJYDDIJ?usp=sharing)
 + Creating deepfakes using [DeepFaceLab](https://github.com/iperov/DeepFaceLab).
 
@@ -44,9 +45,12 @@ A small demo portofolio presentation can be found [here](https://1drv.ms/p/s!Aql
   + Joining [Playstore](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps) and [Appstore](https://www.kaggle.com/datasets/gauthamp10/apple-appstore-apps) datasets.
   + Additionally, result distribution comaprision between Appstore and Playstore.
 
-# Other Github mini-projects
-List of my hobbyist works:
+# Game-making
++ Recreating custom versions of Pong and Block-stacking game for mobile devices, using Flutter's Flame game library
++ A recreation of university faculty as a 2.5D platformer (virtual space), using open-source Godot game engine
 + GUI [Games](https://lahaluhem.github.io/GUI_Games/)
 + Non-GUI [Games](https://lahaluhem.github.io/Non-GUI_Games/)
+
+# Other Github mini-projects
 + Funcionality [Extensions](https://lahaluhem.github.io/Extensions/)
 + Random [scripts](https://lahaluhem.github.io/Other_Programs/) etc.
