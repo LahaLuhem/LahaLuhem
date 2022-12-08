@@ -1,6 +1,6 @@
 markdown: kramdown
 google_analytics:
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 markdown: kramdown
 show_downloads: false
 github_username: LahaLuhm
