@@ -8,8 +8,12 @@ github_username: LahaLuhm
 twitter_username: Mguy13
 
 title: Personal Page of Laha Luhem
-email: t3mp0rary13@gmail.com
+name: "Laha Luhem"
+subtitle: ""
 description: Happy digging!
+email: t3mp0rary13@gmail.com
+
+breadcrumbs: true  # disabled by default
 
 plugins:
   - jemoji
