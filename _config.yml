@@ -9,3 +9,7 @@ twitter_username: Mguy13
 title: Personal Page of Laha Luhem
 email: t3mp0rary13@gmail.com
 description: Happy digging!
+
+plugins:
+  - jemoji
+  - jekyll-include-cache
