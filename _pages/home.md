@@ -5,8 +5,8 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
 
-Mobile app development
-=======================
+# Mobile app development
+
 ## Current role
 Developing and maintaining MedApp pharmacy app using Flutter.
 
