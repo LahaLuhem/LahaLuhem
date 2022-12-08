@@ -31,7 +31,7 @@ A small demo portofolio presentation can be found [here](https://1drv.ms/p/s!Aql
 
 # AI/ML
 + Training open source instance of GPT-3, for quirky use cases. My GPT-Neo [instance](https://drive.google.com/drive/folders/1uWQ5mHiPoofg0f6EL5NACNlrYwJYDDIJ?usp=sharing)
-+ Creating deepfakes using [DeepFakeLab](https://github.com/iperov/DeepFaceLab).
++ Creating deepfakes using [DeepFaceLab](https://github.com/iperov/DeepFaceLab).
 
 # Datascience
 + Spark
