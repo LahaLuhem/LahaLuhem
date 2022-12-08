@@ -42,10 +42,10 @@ author:
 
 footer:
   links:
-  - label: "Twitter"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Mguy_13"
-  - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/LahaLuhem"
 
