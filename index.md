@@ -1,12 +1,10 @@
 ---
 layout: default
+classes: wide
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
-
-Table of contents
-==================
-{:.no_toc}
-* TOC
-{:toc}
 
 Mobile app development
 =======================
