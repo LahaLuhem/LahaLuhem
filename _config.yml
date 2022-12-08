@@ -29,6 +29,11 @@ plugins:
   - jekyll-include-cache
   - jekyll-titles-from-headings
 
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: false
+
 author:
   name   : "Laha Luhem"
   avatar : "/assets/images/bio-photo.jpg"
