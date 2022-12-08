@@ -29,6 +29,13 @@ Developing and maintaing MedApp pharmacy app using Flutter.
 ## Portfolio
 A small demo portofolio presentation can be found [here](https://1drv.ms/p/s!AqlOwfoXgAPB9zf41AJ1j7mMDkkt).
 
+# AI/ML
++ Training open source instance of GPT-3, for quirky use cases. My GPT-Neo [instance](https://drive.google.com/drive/folders/1uWQ5mHiPoofg0f6EL5NACNlrYwJYDDIJ?usp=sharing)
++ Creating deepfakes using [DeepFakeLab](https://github.com/iperov/DeepFaceLab).
+
+# Datascience
++ Spark
+
 # Other Github mini-projects
 List of my hobbyist works:
 + GUI [Games](https://lahaluhem.github.io/GUI_Games/)
