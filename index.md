@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 classes: wide
 toc: true
 toc_label: "My Table of Contents"
