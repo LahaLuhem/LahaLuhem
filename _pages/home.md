@@ -1,7 +1,5 @@
 ---
 permalink: /
-layout: home
-classes: wide
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
@@ -10,7 +8,7 @@ toc_icon: "cog"
 Mobile app development
 =======================
 ## Current role
-Developing and maintaing MedApp pharmacy app using Flutter.
+Developing and maintaining MedApp pharmacy app using Flutter.
 
 ## Ongoing hobby projects
 
