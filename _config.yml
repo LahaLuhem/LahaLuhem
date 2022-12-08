@@ -1,6 +1,6 @@
 markdown: kramdown
 google_analytics:
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 markdown: kramdown
 show_downloads: false
@@ -16,5 +16,4 @@ email: t3mp0rary13@gmail.com
 breadcrumbs: true  # disabled by default
 
 plugins:
-  - jemoji
   - jekyll-include-cache
