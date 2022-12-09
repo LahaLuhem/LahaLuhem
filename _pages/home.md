@@ -30,6 +30,7 @@ A small demo portofolio presentation can be found [here](https://1drv.ms/p/s!Aql
 + Training and calibrating a point-cloud estimation model for a robot's camera, for location estimation and optimal route-creation to cover an area
 + Training open source instance of GPT-3, for quirky use cases. My GPT-Neo [instance](https://drive.google.com/drive/folders/1uWQ5mHiPoofg0f6EL5NACNlrYwJYDDIJ?usp=sharing)
 + Creating deepfakes using [DeepFaceLab](https://github.com/iperov/DeepFaceLab).
++ Built a Bayesian model in R with JAGS as a sampler, to proove that the impoverished neighbourhoods in the US are racially biased.
 
 # Datascience
 
